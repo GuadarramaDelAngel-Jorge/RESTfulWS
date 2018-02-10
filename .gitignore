@@ -1,0 +1,24 @@
+*.class
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.target
+.springBeans
+.recommenders/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+/target/
